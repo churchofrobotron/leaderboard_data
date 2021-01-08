@@ -1,0 +1,19 @@
+{
+  "name": "leaderboard_data",
+  "version": "1.0.0",
+  "description": "Leaderboard data for Church of Robotron",
+  "main": "gen_score_db.js",
+  "scripts": {
+    "gen_score_db": "node gen_score_db.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/churchofrobotron/leaderboard_data.git"
+  },
+  "author": "Church of Robotron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/churchofrobotron/leaderboard_data/issues"
+  },
+  "homepage": "https://github.com/churchofrobotron/leaderboard_data#readme"
+}

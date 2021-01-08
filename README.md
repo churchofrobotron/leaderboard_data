@@ -2,7 +2,7 @@
 
 This is the data for the [Church of Robotron](https://churchofrobotron.com/) leaderboard. It is used for the [leaderboard](https://churchofrobotron.com/leaderboard/index.html) and [faces of futility](https://churchofrobotron.com/leaderboard/faces.html). 
 
-It is kept separate from the [main repo](https://github.com/churchofrobotron/mcor) to keep that repo size down.  
+It is kept separate from the [main repo](https://github.com/churchofrobotron/mcor) to keep that repo size down.  The main repo controls most of the website, while this repo controls `leaderboard/data`.
 
 # Leaderboard file info
 
